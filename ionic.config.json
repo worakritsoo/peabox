@@ -1,0 +1,8 @@
+{
+  "name": "peabox",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "67bfbd62"
+}
